@@ -70,6 +70,10 @@ In this experiment, categorical variables are represented using embeddings, and 
 
 * Model outputs predicted income class.
 
+## PROGRAM AND REQUIREMENTS:
+### Refer to the provided `requirements.txt` and `workshop1.ipynb` files for the complete coding process and execution details.
+
+
 ## RESULT
 
 Thus, a tabular neural network model was successfully developed using PyTorch to classify income level. The model achieved ~85% test accuracy.
